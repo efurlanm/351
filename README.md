@@ -1,6 +1,8 @@
 # My personal course repository
 
-This course (CAP-351 Neurocomputing) is part of the Applied Artificial Intelligence Track. Other courses that are also part of the track:
+CAP351 Neurocomputing
+
+This course is part of the Applied Artificial Intelligence Track. Other courses that are also part of the track:
 
 - CAP354 Artifical Intelligence
 - CAP335 Computational Learning and Pattern Recognition
@@ -12,19 +14,19 @@ This course (CAP-351 Neurocomputing) is part of the Applied Artificial Intellige
 
 - Neural network
 - Historic
-- conceitos e definições
-- Paradigmas e regras de aprendizagem
+- concepts and definitions
+- Learning paradigms and rules
 - Perceptrons
-- Perceptrons de múltiplas camadas (MLP)
-- O Algoritmo de Retropropagação e suas variações
-- Técnicas para configuração de topologia
-- Regularizações
+- Multilayer Perceptrons (MLP)
+- Backpropagation algorithm and its variations
+- Topology configuration techniques
+- Regularizations
 - Autoencoders
-- Redes neurais competitivas: SOM, GNG. PCA
-- Redes Hopfield
-- Máquinas de Boltzmann e máquinas de Boltzmann restritas
-- Introdução às arquiteturas profundas: DNN, CNN, RNN
-- Softwares e aplicações
+- Competitive neural networks: SOM, GNG. PCA
+- Hopfield network
+- Boltzmann machines and constrained Boltzmann machines
+- Introduction to deep architectures: DNN, CNN, RNN
+- Software and applications
 
 
 ## Some selected topics from CAP354
@@ -41,10 +43,6 @@ This course (CAP-351 Neurocomputing) is part of the Applied Artificial Intellige
 - [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 
 
-
-
-
-
 # References
 
-- [RR Rosa; JDS da Silva. Tópicos de inteligência computacional aplicados em tecnologias espaciais](http://mtc-m16c.sid.inpe.br/col/urlib.net/www/2011/03.29.20.55/doc/mirrorget.cgi?languagebutton=en&metadatarepository=sid.inpe.br/mtc-m18@80/2008/12.19.13.18.16&index=0&serveraddress=mtc-m16c.sid.inpe.br%20804&choice=full&lastupdate=2021:04.14.18.47.25%20sid.inpe.br/mtc-m18@80/2008/03.17.15.17%20marciana%20%7BD%202008%7D&continue=no&keywords=&accent=yes&case=yes&imageflag=0&mirrorgetflag=1)
+- [RR Rosa; JDS da Silva. Topics of computational intelligence applied to space technologies (in Portuguese)](http://mtc-m16c.sid.inpe.br/col/urlib.net/www/2011/03.29.20.55/doc/mirrorget.cgi?languagebutton=en&metadatarepository=sid.inpe.br/mtc-m18@80/2008/12.19.13.18.16&index=0&serveraddress=mtc-m16c.sid.inpe.br%20804&choice=full&lastupdate=2021:04.14.18.47.25%20sid.inpe.br/mtc-m18@80/2008/03.17.15.17%20marciana%20%7BD%202008%7D&continue=no&keywords=&accent=yes&case=yes&imageflag=0&mirrorgetflag=1)

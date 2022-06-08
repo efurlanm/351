@@ -1,8 +1,6 @@
-# My personal course repository
+# My personal repository of notes about the CAP351 Neurocomputing course
 
-CAP351 Neurocomputing
-
-This course is part of the [Applied Artificial Intelligence Track](http://www.inpe.br/posgraduacao/cap/catalogo-disciplinas.php). Other courses that are also part of the track:
+The CAP351 course is part of the [Applied Artificial Intelligence Track](http://www.inpe.br/posgraduacao/cap/catalogo-disciplinas.php). Other courses that are also part of the track:
 
 - CAP354 Artifical Intelligence
 - CAP335 Computational Learning and Pattern Recognition
@@ -10,7 +8,7 @@ This course is part of the [Applied Artificial Intelligence Track](http://www.in
 - CAP424 Fuzzy Logic
 
 
-## CAP351 topics
+# CAP351 topics
 
 - Neural network
 - Historic
@@ -22,12 +20,24 @@ This course is part of the [Applied Artificial Intelligence Track](http://www.in
 - Topology configuration techniques
 - Regularizations
 - Autoencoders
-- Competitive neural networks: SOM, GNG. PCA
+- Competitive neural networks: SOM, GNG, PCA
 - Hopfield network
 - Boltzmann machines and constrained Boltzmann machines
 - Introduction to deep architectures: DNN, CNN, RNN
 - Software and applications
 
+
+# References
+
+- [RR Rosa; JDS da Silva. Topics of computational intelligence applied to space technologies (in Portuguese)](http://mtc-m16c.sid.inpe.br/col/urlib.net/www/2011/03.29.20.55/doc/mirrorget.cgi?languagebutton=en&metadatarepository=sid.inpe.br/mtc-m18@80/2008/12.19.13.18.16&index=0&serveraddress=mtc-m16c.sid.inpe.br%20804&choice=full&lastupdate=2021:04.14.18.47.25%20sid.inpe.br/mtc-m18@80/2008/03.17.15.17%20marciana%20%7BD%202008%7D&continue=no&keywords=&accent=yes&case=yes&imageflag=0&mirrorgetflag=1)
+- [RUMELHART, D. E.; MCCLELLAND, J. L. *Parallel distributed processing: explorations in the microstructure of cognition*. Cambridge, Mass: MIT Press, 1986. ISBN: 9780262181204](https://mitpress.mit.edu/books/parallel-distributed-processing-volume-1)
+- [HAYKIN, Simon S. *Neural networks: a comprehensive foundation*. 2nd ed ed. Upper Saddle River, N.J: Prentice Hall, 1999. ISBN: 9780132733502](https://www.google.com.br/books/edition/Neural_Networks/bX4pAQAAMAAJ)
+- [HAYKIN, Simon. Neural networks and learning machines, 3/E. Pearson Education India, 2009. ISBN: 9780133002553](https://www.google.com.br/books/edition/_/faouAAAAQBAJ)
+- [GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A. Deep learning. Cambridge, Massachusetts: The MIT Press, 2016. ISBN: 9780262035613](https://www.google.com.br/books/edition/Deep_Learning/Np9SDQAAQBAJ)
+- [LECUN, Y.; BENGIO, Y.; HINTON, G. Deep learning. Nature, v. 521, n. 7553, p. 436–444, 28 maio 2015.](https://www.nature.com/articles/nature14539). https://doi.org/10.1038/nature14539
+
+
+# Notes
 
 ## Some selected topics from CAP354
 
@@ -42,10 +52,13 @@ This course is part of the [Applied Artificial Intelligence Track](http://www.in
 - [Knowledge representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning)
 - [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 
+## Python distribution
 
-# References
+- The Anaconda Python distribution was used to run the Notebooks in this repository.
 
-- [RR Rosa; JDS da Silva. Topics of computational intelligence applied to space technologies (in Portuguese)](http://mtc-m16c.sid.inpe.br/col/urlib.net/www/2011/03.29.20.55/doc/mirrorget.cgi?languagebutton=en&metadatarepository=sid.inpe.br/mtc-m18@80/2008/12.19.13.18.16&index=0&serveraddress=mtc-m16c.sid.inpe.br%20804&choice=full&lastupdate=2021:04.14.18.47.25%20sid.inpe.br/mtc-m18@80/2008/03.17.15.17%20marciana%20%7BD%202008%7D&continue=no&keywords=&accent=yes&case=yes&imageflag=0&mirrorgetflag=1)
+- Anaconda's default Conda package manager was used to install additional required packages.
+
+
 
 
 <br>

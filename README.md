@@ -37,10 +37,7 @@ The CAP351 course is part of the [Applied Artificial Intelligence Track](http://
 - [LECUN, Y.; BENGIO, Y.; HINTON, G. Deep learning. Nature, v. 521, n. 7553, p. 436–444, 28 maio 2015.](https://www.nature.com/articles/nature14539). https://doi.org/10.1038/nature14539
 
 
-# Notes
-
-
-## Some selected topics from CAP354
+# Some selected topics from CAP354
 
 - [Fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic)
 - [Non-classical logic](https://en.wikipedia.org/wiki/Non-classical_logic)
@@ -54,14 +51,14 @@ The CAP351 course is part of the [Applied Artificial Intelligence Track](http://
 - [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 
 
-## Python distribution
+# Python distribution
 
 - The [Anaconda Python distribution](https://www.anaconda.com/products/distribution) was used to run the Notebooks in this repository
 
 - Anaconda's default Conda package manager was used to install additional required packages
 
 
-## Links of interest
+# Links of interest
 
 - [Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) has a series of interesting videos about Neural Networks
 

@@ -65,7 +65,7 @@ The CAP351 course is part of the [Applied Artificial Intelligence Track](http://
 
 - [Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) has a series of interesting videos about Neural Networks
 
-- [NPTEL](https://www.youtube.com/channel/UCYa1WtI-vb_bx-anHdmpNfA/search?query=neural) - the Indian government project NPTEL has a series of videos on Neural Networks
+- [NPTEL](https://www.youtube.com/channel/UCYa1WtI-vb_bx-anHdmpNfA/search?query=neural) : the Indian government project NPTEL has a series of videos on Neural Networks
 
 
 

@@ -1,4 +1,4 @@
-# My personal repository of notes about the course
+# My personal repository of notes
 
 The CAP351 course is part of the [Applied Artificial Intelligence Track](http://www.inpe.br/posgraduacao/cap/catalogo-disciplinas.php). Other courses that are also part of the track:
 

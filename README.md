@@ -39,6 +39,7 @@ The CAP351 course is part of the [Applied Artificial Intelligence Track](http://
 
 # Notes
 
+
 ## Some selected topics from CAP354
 
 - [Fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic)
@@ -52,15 +53,27 @@ The CAP351 course is part of the [Applied Artificial Intelligence Track](http://
 - [Knowledge representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning)
 - [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 
+
 ## Python distribution
 
-- The Anaconda Python distribution was used to run the Notebooks in this repository.
+- The [Anaconda Python distribution](https://www.anaconda.com/products/distribution) was used to run the Notebooks in this repository
 
-- Anaconda's default Conda package manager was used to install additional required packages.
-
-
+- Anaconda's default Conda package manager was used to install additional required packages
 
 
+## Links of interest
+
+- [Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) has a series of interesting videos about Neural Networks
+
+- [NPTEL](https://www.youtube.com/channel/UCYa1WtI-vb_bx-anHdmpNfA/search?query=neural) - the Indian government project NPTEL has a series of videos on Neural Networks
+
+
+
+
+
+
+
+<!---------------------------------------->
 <br>
 <table>
     <tr>

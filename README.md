@@ -16,17 +16,17 @@ Most of the material contained in this repository uses the Portuguese language.
 - Historic
 - Concepts and definitions
 - Learning paradigms and rules
-- Perceptrons
-- Multilayer Perceptrons (MLP)
-- Backpropagation algorithm and its variations
-- Topology configuration techniques
+- [Perceptrons](https://en.wikipedia.org/wiki/Perceptron)
+- [Multilayer Perceptrons (MLP)](https://en.wikipedia.org/wiki/Multilayer_perceptron)
+- [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation) algorithm and its variations
+- [Topology](https://www.researchgate.net/figure/Neural-network-model-topology-and-layer-configuration-represented-by-a-p-dimensional_fig1_312082939) configuration techniques
 - [Regularizations](https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/)
 - [Autoencoders](https://www.analyticsvidhya.com/blog/2021/10/an-introduction-to-autoencoders-for-beginners/)
 - Competitive neural networks: SOM, GNG, PCA
 - [Hopfield network](https://www.geeksforgeeks.org/hopfield-neural-network/)
 - [Boltzmann machines](https://www.geeksforgeeks.org/types-of-boltzmann-machines/) and constrained Boltzmann machines
 - [Introduction to deep architectures: DNN, CNN, RNN](https://www.geeksforgeeks.org/difference-between-ann-cnn-and-rnn/)
-- Software and applications
+- [Software](https://en.wikipedia.org/wiki/Neural_network_software) and applications
 
 
 # Directories

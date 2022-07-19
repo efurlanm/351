@@ -7,8 +7,6 @@ The CAP351 course is part of the [Applied Artificial Intelligence Track](http://
 - CAP335 Computational Learning and Pattern Recognition
 - CAP354 Artifical Intelligence
 
-Most of the material contained in this repository uses the Portuguese language.
-
 
 # CAP351 topics with links to interesting pages
 
@@ -34,12 +32,17 @@ Most of the material contained in this repository uses the Portuguese language.
 - *kaggle_fork* : Notebooks are based on those available in Kaggle at https://www.kaggle.com/phelpsmemo/code
 
 
+# Files
+
+- `projeto1-mlp.ipynb` : Homework Projeto 1 (in Portuguese)
+
+
 # References
 
 - GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A. [Deep learning](https://www.google.com.br/books/edition/Deep_Learning/Np9SDQAAQBAJ). Cambridge, Massachusetts: The MIT Press, 2016. ISBN: 9780262035613. Available at: https://www.deeplearningbook.org
 - BRAGA, A. D. P., CARVALHO, A. C. P. D. L. F., & LUDERMIR, T. B. [Redes neurais artificiais](https://www.skoob.com.br/redes-neurais-artificiais-222201ed300416.html): teoria e aplicações (in Portuguese). Rio de Janeiro: LTC, 2000. ISBN: 8521612184
-- HAYKIN, Simon S. [Neural networks: a comprehensive foundation](https://www.google.com.br/books/edition/Neural_Networks/bX4pAQAAMAAJ). 2nd ed ed. Upper Saddle River, N.J: Prentice Hall, 1999. ISBN: 9780132733502
-- HAYKIN, Simon. [Neural networks and learning machines](https://www.google.com.br/books/edition/_/faouAAAAQBAJ), 3/E. Pearson Education India, 2009. ISBN: 9780133002553
+- HAYKIN, S. [Neural networks: a comprehensive foundation](https://www.google.com.br/books/edition/Neural_Networks/bX4pAQAAMAAJ). 2nd ed ed. Upper Saddle River, N.J: Prentice Hall, 1999. ISBN: 9780132733502
+- HAYKIN, S. [Neural networks and learning machines](https://www.google.com.br/books/edition/_/faouAAAAQBAJ), 3/E. Pearson Education India, 2009. ISBN: 9780133002553
 - RUMELHART, D. E.; MCCLELLAND, J. L. [Parallel distributed processing: explorations in the microstructure of cognition](https://mitpress.mit.edu/books/parallel-distributed-processing-volume-1). Cambridge, Mass: MIT Press, 1986. ISBN: 9780262181204
 - LECUN, Y.; BENGIO, Y.; HINTON, G. [Deep learning](https://www.nature.com/articles/nature14539). Nature, v. 521, n. 7553, p. 436–444, 28 maio 2015. https://doi.org/10.1038/nature14539
 - RR Rosa; JDS da Silva. [Topics of computational intelligence applied to space technologies](http://mtc-m16c.sid.inpe.br/col/urlib.net/www/2011/03.29.20.55/doc/mirrorget.cgi?languagebutton=en&metadatarepository=sid.inpe.br/mtc-m18@80/2008/12.19.13.18.16&index=0&serveraddress=mtc-m16c.sid.inpe.br%20804&choice=full&lastupdate=2021:04.14.18.47.25%20sid.inpe.br/mtc-m18@80/2008/03.17.15.17%20marciana%20%7BD%202008%7D&continue=no&keywords=&accent=yes&case=yes&imageflag=0&mirrorgetflag=1) (in Portuguese). 2008. ISBN: 978-85-17-00037-9
@@ -99,6 +102,10 @@ Most of the material contained in this repository uses the Portuguese language.
 - [NPTEL](https://www.youtube.com/channel/UCYa1WtI-vb_bx-anHdmpNfA/search?query=neural) : an Indian government project, provides a series of videos on Neural Networks
 
 - [Deep Learning Book](https://www.deeplearningbook.com.br/) (in Portuguese) : online book showing Perceptron and Multilayer Perceptron models, Backpropagation, Convolutional Neural Networks, Recurrent Neural Networks, Autoencoders, Generative Adversarial Network, Deep Reinforcement Learning, and other subjects
+
+- [Deep Learning Wizard](https://www.deeplearningwizard.com) : tutorials, courses, and over 6000 deep learning wizards 
+
+- [Artificial Neural Networks](https://en.wikibooks.org/wiki/Artificial_Neural_Networks) : Wikibooks containing ANN models, teaching and learning, and applications
 
 
 # Videos of interest

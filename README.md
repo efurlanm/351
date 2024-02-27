@@ -1,12 +1,16 @@
-# My personal notes on CAP 351 Neurocomputing
+# My personal notes from the Neurocomputing course (CAP 351)
 
-This repo contains my work for this [course at INPE](http://www.inpe.br/posgraduacao/). The CAP 351 course is part of the [Applied Artificial Intelligence Track](http://www.inpe.br/posgraduacao/cap/catalogo-disciplinas.php). Courses that are part of the track:
+*Last edited: 2024-02-27*
 
-- CAP 351 Neurocomputing
-- CAP 421 Deep Learning
-- CAP 424 Fuzzy Logic
-- CAP 335 Computational Learning and Pattern Recognition
-- CAP 354 Artifical Intelligence
+This repo contains my work for this [course at INPE](http://www.inpe.br/posgraduacao/). The CAP 351 course is part of the [Applied Artificial Intelligence Track](http://www.inpe.br/posgraduacao/cap/catalogo-disciplinas.php).
+
+
+## Directories
+
+- [manuscript](manuscript) - Academic manuscript of the project developed in the course (in Portuguese).
+- [kaggle_fork](kaggle_fork) - Fork from Kaggle repositories available at https://www.kaggle.com/phelpsmemo/code
+- [plotmaps](plotmaps) - Examples of rectangular and hexagonal maps, mainly based on https://github.com/mstaczek/miowad
+
 
 ## Some CAP351 topics and links to interesting pages
 
@@ -26,10 +30,6 @@ This repo contains my work for this [course at INPE](http://www.inpe.br/posgradu
 - [Introduction to deep architectures: DNN, CNN, RNN](https://www.geeksforgeeks.org/difference-between-ann-cnn-and-rnn/)
 - [Software](https://en.wikipedia.org/wiki/Neural_network_software) and applications
 
-## Directories
-
-- *kaggle_fork* - Fork from Kaggle repositories available at https://www.kaggle.com/phelpsmemo/code
-- *plotmaps* - Examples of rectangular and hexagonal maps, mainly based on https://github.com/mstaczek/miowad
 
 ## Hands-on works
 
@@ -38,6 +38,7 @@ This repo contains my work for this [course at INPE](http://www.inpe.br/posgradu
 - [`project3-vae.ipynb`](https://github.com/efurlanm/351/blob/main/project3-vae.ipynb) - In machine learning, a variational autoencoder, is an artificial neural network architecture introduced by Diederik P. Kingma and Max Welling, belonging to the families of probabilistic graphical models and variational Bayesian methods. [[Source]](https://en.wikipedia.org/wiki/Variational_autoencoder)
 - [`project4-cnn.ipynb`](https://github.com/efurlanm/351/blob/main/project4-cnn.ipynb) - A Convolutional Neural Network (CNN, or ConvNet) is a class of artificial neural network (ANN), most commonly applied to analyze visual imagery. CNNs are also known as Shift Invariant or Space Invariant Artificial Neural Networks (SIANN), based on the shared-weight architecture of the convolution kernels or filters that slide along input features and provide translation-equivariant responses known as feature maps. [[Source]](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 - [`project5-rnn.ipynb`](https://github.com/efurlanm/351/blob/main/project5-rnn.ipynb) - A Recurrent Neural Network (RNN) is a class of artificial neural networks where connections between nodes can create a cycle, allowing output from some nodes to affect subsequent input to the same nodes. [[Source]](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+
 
 ## Some selected topics from CAP421 (only for reference)
 
@@ -60,6 +61,7 @@ This repo contains my work for this [course at INPE](http://www.inpe.br/posgradu
 - Generative Adversarial Networks (GANs)
 - Deep Reinforcement Learning
 
+
 ## Some selected topics from CAP354 (only for reference)
 
 - [Fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic)
@@ -74,11 +76,13 @@ This repo contains my work for this [course at INPE](http://www.inpe.br/posgradu
 - [Knowledge representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning)
 - [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 
+
 ## Python distribution
 
 - The [Anaconda Python distribution](https://www.anaconda.com/products/distribution) was used to run the Notebooks in this repository
 
 - Anaconda's default Conda package manager was used to install additional required packages
+
 
 ## Links of interest
 
@@ -93,6 +97,7 @@ This repo contains my work for this [course at INPE](http://www.inpe.br/posgradu
 - [Deep Learning Wizard](https://www.deeplearningwizard.com) - tutorials, courses, and over 6000 deep learning wizards 
 
 - [Artificial Neural Networks](https://en.wikibooks.org/wiki/Artificial_Neural_Networks) - Wikibooks containing ANN models, teaching and learning, and applications
+
 
 ## Videos of interest
 
@@ -111,6 +116,7 @@ This repo contains my work for this [course at INPE](http://www.inpe.br/posgradu
 - [Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton](https://youtu.be/-eyhCTvrEtE) (with Subtitles/CC) - Geoffrey Everest Hinton is a British-Canadian cognitive psychologist and computer scientist, most noted for his work on artificial neural networks. Since 2013, he has divided his time working for Google (Google Brain) and the University of Toronto. [[Source]](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
 
 - [Heroes of Deep Learning: Andrew Ng interviews Yoshua Bengio](https://youtu.be/pnTLZQhFpaE) (with Subtitles/CC) - Yoshua Bengio is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He is a professor at the Department of Computer Science and Operations Research at the Université de Montréal and scientific director of the Montreal Institute for Learning Algorithms (MILA). [[Source]](https://en.wikipedia.org/wiki/Yoshua_Bengio)
+
 
 ## References
 

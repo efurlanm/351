@@ -12,7 +12,7 @@ This repo contains my work for this [course at INPE](http://www.inpe.br/posgradu
 - [plotmaps](plotmaps) - Examples of rectangular and hexagonal maps, mainly based on https://github.com/mstaczek/miowad
 
 
-## Some CAP351 topics and links to interesting pages
+## Some CAP 351 topics and links to interesting pages
 
 - Neural network
 - Historic
@@ -40,7 +40,7 @@ This repo contains my work for this [course at INPE](http://www.inpe.br/posgradu
 - [`project5-rnn.ipynb`](https://github.com/efurlanm/351/blob/main/project5-rnn.ipynb) - A Recurrent Neural Network (RNN) is a class of artificial neural networks where connections between nodes can create a cycle, allowing output from some nodes to affect subsequent input to the same nodes. [[Source]](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 
 
-## Some selected topics from CAP421 (only for reference)
+## Some selected topics from CAP 421 (only for reference)
 
 - Definition and applications of Deep Learning
 - Basics of Digital Image Processing
@@ -62,7 +62,7 @@ This repo contains my work for this [course at INPE](http://www.inpe.br/posgradu
 - Deep Reinforcement Learning
 
 
-## Some selected topics from CAP354 (only for reference)
+## Some selected topics from CAP 354 (only for reference)
 
 - [Fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic)
 - [Non-classical logic](https://en.wikipedia.org/wiki/Non-classical_logic)

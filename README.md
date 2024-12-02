@@ -1,8 +1,10 @@
-# My personal notes from the Neurocomputing course (CAP 351)
+# Neurocomputing (CAP 351)
 
 *Last edited: 2024-02-27*
 
-This repo contains my work for this [course at INPE](http://www.inpe.br/posgraduacao/). The CAP 351 course is part of the [Applied Artificial Intelligence Track](http://www.inpe.br/posgraduacao/cap/catalogo-disciplinas.php).
+My personal notes from the course and assignments.
+
+The CAP 351 course is part of the [Applied Artificial Intelligence Track](http://www.inpe.br/posgraduacao/cap/catalogo-disciplinas.php).
 
 
 ## Directories
@@ -12,7 +14,7 @@ This repo contains my work for this [course at INPE](http://www.inpe.br/posgradu
 - [plotmaps](plotmaps) - Examples of rectangular and hexagonal maps, mainly based on https://github.com/mstaczek/miowad
 
 
-## Some CAP 351 topics and links to interesting pages
+## Some topics and links to interesting pages
 
 - Neural network
 - Historic
